@@ -19,7 +19,7 @@ import org.springframework.transaction.annotation.EnableTransactionManagement;
 @ComponentScan("org.megloff.example.spring.dao")
 public class SpringConfig {
 
-	// Old variant via "persistence.xml file which neet to be placed at 
+	// Old variant via "persistence.xml file which need to be placed at
 	// src/main/java/META-INF/persistence.xml
 	/*
 	@Bean
